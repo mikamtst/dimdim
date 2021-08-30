@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'instituicao-dimdim'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_8aa71dd3794644a2804258bdde75078b }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_95bf9f4aa9db48a7b357d32e4a2a2ec9 }}
         package: .
