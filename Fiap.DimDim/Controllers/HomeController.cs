@@ -34,7 +34,7 @@ namespace Fiap.DimDim.Controllers
 
         void connectionString()
         {
-            con.ConnectionString = "Data Source=Localhost,1401;Initial Catalog=dimdim;User ID=SA;Password=Str0ngPassword!";
+            con.ConnectionString = "Data Source=sqlserver-micaela.database.windows.net;Initial Catalog=dimdim;Persist Security Info=True;User ID=micaela;Password=devops@2021";
         }
 
         [HttpPost]
