@@ -34,7 +34,7 @@ namespace Fiap.DimDim.Controllers
 
         void connectionString()
         {
-            con.ConnectionString = "Data Source=Localhost,1401;Initial Catalog=model;User ID=SA;Password=Str0ngPassword!";
+            con.ConnectionString = "Data Source=Localhost,1401;Initial Catalog=dimdim;User ID=SA;Password=Str0ngPassword!";
         }
 
         [HttpPost]
@@ -43,7 +43,7 @@ namespace Fiap.DimDim.Controllers
             connectionString();
             con.Open();
             com.Connection = con;
-            com.CommandText = "select * from [model].[dbo].[Clientes] where email ='" + email+"'and senha ='"+senha+"'";
+            com.CommandText = "select * from [dimdim].[dbo].[Clientes] where email ='" + email+"'and senha ='"+senha+"'";
             dr = com.ExecuteReader();
             if (dr.Read())
             {
