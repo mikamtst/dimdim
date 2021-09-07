@@ -1,6 +1,9 @@
 ﻿using Fiap.DimDim.Context;
 using Fiap.DimDim.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Data.SqlClient;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace Fiap.DimDim.Controllers
 {

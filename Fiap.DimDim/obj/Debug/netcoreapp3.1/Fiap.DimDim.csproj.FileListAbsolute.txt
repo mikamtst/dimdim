@@ -108,7 +108,6 @@ C:\Users\bsi93328\source\repos\Fiap.DimDim\Fiap.DimDim\obj\Debug\netcoreapp3.1\s
 C:\Users\bsi93328\source\repos\Fiap.DimDim\Fiap.DimDim\obj\Debug\netcoreapp3.1\Fiap.DimDim.TagHelpers.input.cache
 C:\Users\bsi93328\source\repos\Fiap.DimDim\Fiap.DimDim\obj\Debug\netcoreapp3.1\Fiap.DimDim.TagHelpers.output.cache
 C:\Users\bsi93328\source\repos\Fiap.DimDim\Fiap.DimDim\obj\Debug\netcoreapp3.1\Fiap.DimDim.RazorCoreGenerate.cache
-C:\Users\bsi93328\source\repos\Fiap.DimDim\Fiap.DimDim\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\bsi93328\source\repos\Fiap.DimDim\Fiap.DimDim\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\bsi93328\source\repos\Fiap.DimDim\Fiap.DimDim\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\bsi93328\source\repos\Fiap.DimDim\Fiap.DimDim\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -426,3 +425,10 @@ C:\Users\bsi93328\source\repos\Fiap.DimDim\Fiap.DimDim\bin\Debug\netcoreapp3.1\l
 C:\Users\bsi93328\source\repos\Fiap.DimDim\Fiap.DimDim\bin\Debug\netcoreapp3.1\Humanizer.dll
 C:\Users\bsi93328\source\repos\Fiap.DimDim\Fiap.DimDim\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\bsi93328\source\repos\Fiap.DimDim\Fiap.DimDim\obj\Debug\netcoreapp3.1\Razor\Views\ContaBancaria\CadastrarConta.cshtml.g.cs
+C:\Users\bsi93328\source\repos\Fiap.DimDim\Fiap.DimDim\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\bsi93328\source\repos\Fiap.DimDim\Fiap.DimDim\obj\Debug\netcoreapp3.1\Razor\Views\Ted\Transferencia.cshtml.g.cs
+C:\Users\bsi93328\source\repos\Fiap.DimDim\Fiap.DimDim\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Logado.cshtml.g.cs
+C:\Users\bsi93328\source\repos\Fiap.DimDim\Fiap.DimDim\obj\Debug\netcoreapp3.1\Razor\Views\Extrato\ObterExtrato.cshtml.g.cs
+C:\Users\bsi93328\source\repos\Fiap.DimDim\Fiap.DimDim\obj\Debug\netcoreapp3.1\Razor\Views\Extrato\AtualizarTed.cshtml.g.cs
+C:\Users\bsi93328\source\repos\Fiap.DimDim\Fiap.DimDim\obj\Debug\netcoreapp3.1\Razor\Views\Extrato\ExcluirTed.cshtml.g.cs
+C:\Users\bsi93328\source\repos\Fiap.DimDim\Fiap.DimDim\obj\Debug\netcoreapp3.1\Razor\Views\Extrato\DetalhesTed.cshtml.g.cs

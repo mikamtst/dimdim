@@ -11,6 +11,7 @@ namespace Fiap.DimDim.Context
         }
 
         public DbSet<Cliente> Clientes { get; set; }
-        public DbSet<ContaBancaria> ContaBancarias { get; set; }
+        public DbSet<ContaBancaria> ContasBancarias { get; set; }
+        public DbSet<Ted> Teds { get; set; }
     }
 }

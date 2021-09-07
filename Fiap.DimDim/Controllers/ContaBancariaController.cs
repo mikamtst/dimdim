@@ -1,5 +1,7 @@
 ﻿using Fiap.DimDim.Context;
+using Fiap.DimDim.Models;
 using Microsoft.AspNetCore.Mvc;
+using System;
 
 namespace Fiap.DimDim.Controllers
 {
@@ -13,8 +15,16 @@ namespace Fiap.DimDim.Controllers
         }
 
         [HttpGet]
-        public IActionResult CadastrarConta()
+        public IActionResult CadastrarConta(ContaBancaria conta)
         {
+            Random random = new Random();
+            conta.Agencia = 0001;
+            conta.Numero = random.Next(100000, 900000);
+            conta.Saldo = 0;
+            conta.Tipo = TipoConta.Corrente;
+            conta.CriadoEm = DateTime.Now;
+            _crudContexto.ContasBancarias.Add(conta);
+            _crudContexto.SaveChanges();
             return View();
         }
     }
